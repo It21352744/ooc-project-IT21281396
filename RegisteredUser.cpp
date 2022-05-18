@@ -24,3 +24,17 @@ void RegisteredUser::displayDetails()
 }
 void RegisteredUser::login()
 { 
+  
+}
+void RegisteredUser::logout()
+{ 
+  
+}
+void RegisteredUser::searchFood(Food *pfood)
+{
+  
+}
+RegisteredUser::~RegisteredUser()
+{
+//Destructor
+}
