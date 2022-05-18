@@ -3,9 +3,9 @@ class Payment
 {
 private:
 
-int p_ID;
-char p_Type[20];
-double p_Amount;
+int P_ID;
+char P_Type[20];
+double P_Amount;
 public:
 
 Payment();
