@@ -4,11 +4,13 @@ class Payment
 
 private:
 
+  
 int p_ID;
 char p_Type[20];
 double p_Amount;
 
 public:
+  
 
 Payment();
 Payment(int pID, char pType[],double pAmount);
